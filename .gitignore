@@ -11,3 +11,9 @@ npm-debug.log
 yarn-error.log
 .env
 composer.lock
+Capfile
+config/deploy.rb
+config/deploy/*
+fabfile.py
+fabfile.pyc
+
