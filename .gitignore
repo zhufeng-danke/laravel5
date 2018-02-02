@@ -14,3 +14,4 @@ composer.lock
 Capfile
 config/deploy.rb
 config/deploy/*
+fabfile.pyc
